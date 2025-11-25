@@ -7,7 +7,7 @@ model:
   prompt_template: '###Human: {} ###Assistant: '
   chat_template: False
   q_former_model: ""
-  ckpt: ""
+  ckpt: "/nfs/roberts/project/pi_nc258/yd344/FAVP/ckpt"
   freeze_vit: True
   freeze_qformer: False
   setting: "lora"
